@@ -27,8 +27,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Solution github](https://github.com/jordanlaurent/huddle-landing-page-with-single-introductory-section-master)
-- Live Site URL: [Live site solution](https://jordanlaurent.github.io/huddle-landing-page-with-single-introductory-section-master/)
+- Solution URL: [Solution github](https://github.com/jordanlaurent/stats-preview-card-component-main)
+- Live Site URL: [Live site solution](https://jordanlaurent.github.io/stats-preview-card-component-main/)
 
 ## My process
 
